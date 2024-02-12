@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manilka Gunawardhana</h1>
-<h3 align="center">Electronics & Telecommunication Engineering Undergraduate student | Graphic Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manilka99&label=Profile%20views&color=0e75b6&style=flat" alt="manilka99" /> </p>
 
